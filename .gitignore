@@ -4,3 +4,8 @@ data
 models
 *.swp
 *.p
+references/
+datasets/*.zip
+datasets/GTSRB
+datasets/pickled
+datasets/German*
